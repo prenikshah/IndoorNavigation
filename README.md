@@ -8,4 +8,4 @@ App design: Figma
 Development software: Unity 3D
 
 # Video
-https://youtube.com/shorts/hRE-1L-mVJg?si=qUSxBPucSVpW4zae
+https://youtu.be/BDikWAi_VF4?feature=shared
